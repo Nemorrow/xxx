@@ -1,6 +1,10 @@
-title: Shiye Lei(雷诗叶)
+title: Shiye
 logo: /src/avatar-leaves.jpg
-description: undergraduate, SASEE, BUAA
+description: PhD student, USYD
 #show_downloads: true
 #google_analytics:
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
